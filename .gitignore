@@ -28,5 +28,5 @@ node_modules
 .environment
 /*.json
 
-dist/
+# dist/
 .nyc_output/
